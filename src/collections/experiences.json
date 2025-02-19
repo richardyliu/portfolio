@@ -1,0 +1,30 @@
+[
+	{
+		"dates": "2023 - 2025",
+		"role": "Admissions Intern",
+		"company": "No. 2 High School of East China Normal University",
+		"description": "Senior Class Admissions Interviewer. Admissions Assistant. Outreach Assistant.",
+		"logo": "/assets/images/experiences/No-2-High-School-of-ECNU_Logo.png"
+	},
+	{
+		"dates": "2022 - 2025",
+		"role": "Mechanical Engineer",
+		"company": "FRC Robotics Team #6353",
+		"description": "Crafting and optimizing mechanical design. Communication with English-speaking teams. Ex Drive Team member.",
+		"logo": "/assets/images/experiences/No-2-High-School-of-ECNU_Logo.png"
+	},
+	{
+		"dates": "2023 - 2024",
+		"role": "Research Assistant",
+		"company": "Shanghai Jiao Tong University",
+		"description": "Data analysis and sorting using stock prices. Training and optimizing models. Report preparation.",
+		"logo": "/assets/images/experiences/Sjtu-logo-standard-red_logo.png"
+	},
+	{
+		"dates": "2023 - 2024",
+		"role": "Researcher & Course Participant",
+		"company": "The George Washington University",
+		"description": "Sophomore-level politics course & coursework. Research on political economy & nationalism. Report preparation & research publication.",
+		"logo": "/assets/images/experiences/GWU_logo.jpg"
+	}
+]

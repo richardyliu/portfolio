@@ -1,0 +1,26 @@
+[
+	{
+		"name": "EFZ AP Program 101",
+		"description": "Demystifying everything at the AP Program.",
+		"image": "/assets/images/projects/efz101.png",
+		"url": "https://efz101.hsefz-gkb.space/"
+	},
+	{
+		"name": "FRC Robotics Mechanics '25 (TBD)",
+		"description": "\"Jarvis v4\"",
+		"image": "/assets/images/projects/frc24.jpeg",
+		"url": "https://www.thebluealliance.com/team/6353/2025"
+	},
+	{
+		"name": "FRC Robotics Mechanics '24",
+		"description": "\"Jarvis v2\" & \"Jarvis v3\"",
+		"image": "/assets/images/projects/frc24.jpeg",
+		"url": "https://www.thebluealliance.com/team/6353/2024"
+	},
+	{
+		"name": "FRC Robotics Mechanics '23",
+		"description": "\"Awakening Roar\" & \"Jarvis v1\"",
+		"image": "/assets/images/projects/frc23.jpg",
+		"url": "https://www.thebluealliance.com/team/6353/2023"
+	}
+]
