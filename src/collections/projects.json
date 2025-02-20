@@ -6,6 +6,12 @@
 		"url": "https://efz101.hsefz-gkb.space/"
 	},
 	{
+		"name": "FRC China Wiki",
+		"description": "An introductory tutorial on FRC Robotics.",
+		"image": "/assets/images/projects/frc-wiki.png",
+		"url": "https://wiki.firstrobotics.com.cn/"
+	},
+	{
 		"name": "FRC Robotics Mechanics '25 (TBD)",
 		"description": "\"Jarvis v4\"",
 		"image": "/assets/images/projects/frc24.jpeg",
